@@ -18,11 +18,9 @@ This project simulates the day-to-day work of a Data Analyst at a UK-based onlin
 - **Export:** writexl (Excel), base R (CSV)
 
 ## Project Structure
-- `retail_analysis.R` — full analysis code
+- Loyalty.R` — full analysis code
 - `visualizations/` — 11 charts (PNG)
 - `outputs/` — summary CSVs
-
----
 
 ## Visualizations & Key Insights
 
